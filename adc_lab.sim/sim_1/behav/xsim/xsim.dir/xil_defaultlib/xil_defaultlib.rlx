@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/cover/OneDrive/Documents/vivado/lab6_files/vivado/adc_lab/adc_lab.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1714567697,verilog,,,,clk_wiz_0,,,../../../../adc_lab.ip_user_files/ipstatic,,,,,
+C:/Users/cover/OneDrive/Documents/vivado/lab6_files/vivado/adc_lab/adc_lab.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1714567697,verilog,,C:/Users/cover/OneDrive/Documents/vivado/lab6_files/vivado/adc_lab/adc_lab.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../adc_lab.ip_user_files/ipstatic,,,,,
+C:/Users/cover/OneDrive/Documents/vivado/lab6_files/vivado/adc_lab/adc_lab.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/cover/OneDrive/Documents/vivado/lab6_files/vivado/adc_lab/adc_lab.srcs/sim_1/imports/src/AD9467_INTERFACE.vhd,1714575979,vhdl,,,,ad9467_interface,,,,,,,,
+C:/Users/cover/OneDrive/Documents/vivado/lab6_files/vivado/adc_lab/adc_lab.srcs/sim_1/imports/src/ad_9467_model.vhd,1714552589,vhdl,,,,ad_9467_model,,,,,,,,
+C:/Users/cover/OneDrive/Documents/vivado/lab6_files/vivado/adc_lab/adc_lab.srcs/sim_1/imports/src/toplevel_tb.vhd,1714569995,vhdl,,,,toplevel_tb,,,,,,,,

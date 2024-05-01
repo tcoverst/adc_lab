@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="toplevel_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="toplevel_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="13.575100 us"></ZoomStartTime>
+      <ZoomEndTime time="21.745101 us"></ZoomEndTime>
+      <Cursor1Time time="16.813875 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="154"></NameColumnWidth>
+      <ValueColumnWidth column_width="60"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/toplevel_tb/ADC_DATA" type="array">
+      <obj_property name="ElementShortName">ADC_DATA[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ADC_DATA[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toplevel_tb/dco_p" type="logic">
+      <obj_property name="ElementShortName">dco_p</obj_property>
+      <obj_property name="ObjectShortName">dco_p</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toplevel_tb/dco_n" type="logic">
+      <obj_property name="ElementShortName">dco_n</obj_property>
+      <obj_property name="ObjectShortName">dco_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toplevel_tb/dout_p" type="array">
+      <obj_property name="ElementShortName">dout_p[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dout_p[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toplevel_tb/dout_n" type="array">
+      <obj_property name="ElementShortName">dout_n[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dout_n[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toplevel_tb/psclk" type="logic">
+      <obj_property name="ElementShortName">psclk</obj_property>
+      <obj_property name="ObjectShortName">psclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toplevel_tb/psen" type="logic">
+      <obj_property name="ElementShortName">psen</obj_property>
+      <obj_property name="ObjectShortName">psen</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toplevel_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toplevel_tb/PSDONE" type="logic">
+      <obj_property name="ElementShortName">PSDONE</obj_property>
+      <obj_property name="ObjectShortName">PSDONE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toplevel_tb/TbClock" type="logic">
+      <obj_property name="ElementShortName">TbClock</obj_property>
+      <obj_property name="ObjectShortName">TbClock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toplevel_tb/Unshifted_clk" type="logic">
+      <obj_property name="ElementShortName">Unshifted_clk</obj_property>
+      <obj_property name="ObjectShortName">Unshifted_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toplevel_tb/ADCCLK" type="logic">
+      <obj_property name="ElementShortName">ADCCLK</obj_property>
+      <obj_property name="ObjectShortName">ADCCLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toplevel_tb/TbPeriod" type="other">
+      <obj_property name="ElementShortName">TbPeriod</obj_property>
+      <obj_property name="ObjectShortName">TbPeriod</obj_property>
+   </wvobject>
+</wave_config>
